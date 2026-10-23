@@ -1,0 +1,18 @@
+brokerage:
+  intraday_percent: 0.03
+  intraday_cap_per_order_inr: 20
+
+stt:
+  intraday_sell_percent: 0.025
+
+exchange_txn:
+  nse_equity_percent: 0.00322
+
+sebi:
+  per_crore_inr: 10
+
+gst:
+  percent_on_brokerage_and_txn: 18
+
+stamp_duty:
+  buy_side_percent: 0.003

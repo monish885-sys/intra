@@ -1,0 +1,19 @@
+{
+  "metrics": {
+    "roc_auc": 1.0,
+    "train_rows": 168848.0,
+    "test_rows": 42213.0,
+    "positive_rate_test": 2.368938478667709e-05,
+    "used_target_threshold": 0.04
+  },
+  "feature_columns": [
+    "rsi_14",
+    "vwap",
+    "returns_1",
+    "returns_3",
+    "intraday_range",
+    "price_vs_vwap",
+    "volume_zscore_20"
+  ],
+  "nifty_50_count": 50
+}

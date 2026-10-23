@@ -1,0 +1,10 @@
+apscheduler
+beautifulsoup4
+google-generativeai
+joblib
+pandas
+pyyaml
+requests
+scikit-learn
+ta-lib
+yfinance
